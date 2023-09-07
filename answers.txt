@@ -1,0 +1,4 @@
+What is a remote repository?
+
+A remote repository is a codebase that exists virtually, often on a server.
+Many remote repositories are hosted by services such as github and gitlab.
