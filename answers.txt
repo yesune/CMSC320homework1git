@@ -1,7 +1,0 @@
-What is the difference between a merge and a rebase?
-
-A merge preserves the branch history and combines two branches back into one, often resulting in merge conflicts.
-Merges are useful when collaborating with others.
-
-Rebasing keeps the git history linear, as it changes the start of a branch to the latest node on the main.
-This makes it easier to understand because there are less branches, but it can also cause confusion for coworkers.
